@@ -2,6 +2,8 @@
 
 Submitted by: **Zhihang Cheng**
 
+![](https://imgur.com/a/1Zcl74s.gif)
+
 **CBC** is an app that change the background color.
 
 Time spent: **1** hours spent in total
