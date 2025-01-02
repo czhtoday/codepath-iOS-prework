@@ -15,24 +15,24 @@ The following **required** functionality is completed:
  
 
 ## App Brainstorming (Step 4)
-• Example App 1: Lyft
-    - the search bar in the middle, color is cool
-    - Simple layout
+• Example App 1: Lyft  
+    - the search bar in the middle, color is cool  
+    - Simple layout  
 
-• Example App 2: Amazon
-    - type in the search bar will be autofilled with a picture
-    - can find order history immediately when open the app
-    - Consistant design, the cart shows price changes
+• Example App 2: Amazon  
+    - type in the search bar will be autofilled with a picture  
+    - can find order history immediately when open the app  
+    - Consistant design, the cart shows price changes  
 
-• Example App 3: X
-    - when scroll the screen, the bottom bar becomes invisible
-    - Most users are 'viewers' only, thus the create post icon is small
-    - Notification page looks good
+• Example App 3: X  
+    - when scroll the screen, the bottom bar becomes invisible  
+    - Most users are 'viewers' only, thus the create post icon is small  
+    - Notification page looks good  
 
-• App Idea: cat shelter
-    - Help people track all the available cats in the nearby shelters.
-    - Allow user to filter the characters of a cat.
-    - Allow users to set alarm for some cats if it is not available at this moment.
+• App Idea: cat shelter  
+    - Help people track all the available cats in the nearby shelters.  
+    - Allow user to filter the characters of a cat.  
+    - Allow users to set alarm for some cats if it is not available at this moment.  
 
 
 
